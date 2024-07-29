@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+<!--    <item-->
+<!--        android:drawable="@drawable/splash_icon_background"-->
+<!--        android:gravity="bottom"-->
+<!--        android:left="-200dp"-->
+<!--        android:right="-200dp" />-->
+
+<!--    <item-->
+<!--        android:bottom="127dp"-->
+<!--        android:drawable="@drawable/splash_bookmark_icon"-->
+<!--        android:gravity="center|bottom|right"-->
+<!--        android:right="60dp" />-->
+
+<!--    <item-->
+<!--        android:bottom="200dp"-->
+<!--        android:drawable="@drawable/splash_brand_logo_with_background" />-->
+    <item >
+        <bitmap android:gravity="center|fill" android:src="@drawable/splash_screen"/>
+    </item>
+
+</layer-list>
