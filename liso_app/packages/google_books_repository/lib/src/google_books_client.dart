@@ -6,7 +6,7 @@ import 'package:google_books_repository/google_books_repository.dart';
 
 class GoogleBooksClient {
   Map<String, String> headerValues = {
-    'Authorization': 'AIzaSyCBtAe5rNWiuv03jhJWfxN6ktYteajLHQs'
+    'Authorization': ''
   };
 
   GoogleBooksClient({
